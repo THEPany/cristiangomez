@@ -1,4 +1,4 @@
-# cristiangomez
+# Cristian Gómez
 
 ## Project setup
 ```
