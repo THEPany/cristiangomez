@@ -5,7 +5,7 @@
           <img class="w-24 h-24 rounded-full border-4 border-white block mx-auto relative -mb-10" src="https://avatars3.githubusercontent.com/u/19762300?s=460&v=4">
           <section class="bg-blue py-10 md:pt-20 px-6 mx:px-0 rounded shadow-md">
               <blockquote class="text-center text-white text-xl md:text-3xl mx-auto leading-tight md:mb-12 max-w-blockquote">
-                  <p class="mb-6">“Lo intentaste. Fracasaste. Da igual. Prueba otra vez. Fracasa otra vez. Fracasa mejor. <br> -Samuel Beckett ”
+                  <p class="mb-6">Soy Ing. sistemas, me gusta el desarrollo web. Me especializo en Laravel y PHP, Vue.JS y Saas.
                   </p>
                   <p class="flex items-center flex-col md:flex-row justify-center text-white text-xs md:text-base uppercase font-bold tracking-wide leading-tight">
                       <span class="mb-2 md:mb-0">Cristian Gómez</span>
