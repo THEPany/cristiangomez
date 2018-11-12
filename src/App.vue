@@ -1,18 +1,19 @@
 <template>
   <div id="app">
-    <layout/>
+    <navbar></navbar>
+    <router-view></router-view>
   </div>
 </template>
 
 <script>
-import layout from './components/layout.vue'
-import './assets/css/main.css'
 
+import Navbar from './components/Nav'
+import './assets/css/main.css'
 
 export default {
   name: 'app',
   components: {
-    layout
+      Navbar
   }
 }
 </script>
