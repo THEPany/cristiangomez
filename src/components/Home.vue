@@ -5,7 +5,7 @@
                 <h1 class="text-5xl lg:text-6xl text-white font-normal">Desarrollador web & <span class="font-bold">Ingeniero en sistemas</span></h1>
                 <p class="font-light mt-8 text-lg text-white leading-loose max-w-md md:max-w-full mx-auto md:mx-0 lg:pr-24 xl:pr-32">
                     ¡Hola! Mi nombre es Cristian Gómez ¡Bienvenidos a mi sitio web! Soy un desarrollador de software con un enfoque particular en la web. Ayudo a las organizaciones a desarrollar software personalizado basado en la web, así como a crear elegantes sitios web.
-                    Me encanta <a class="text-white font-bold no-underline hover:underline whitespace-no-wrap" href="https://laravel.com/" target="_blank">Laravel</a>,lo uso junto con <a class="text-white font-bold no-underline hover:underline whitespace-no-wrap" href="https://vuejs.org/" target="_blank">Vue.js</a> y <a class="text-white font-bold no-underline hover:underline whitespace-no-wrap" href="https://tailwindcss.com" target="_blank">Tailwind CSS</a>
+                    Me encanta <a class="text-white font-bold no-underline hover:underline whitespace-no-wrap" href="https://laravel.com/" target="_blank">Laravel</a>, lo uso junto con <a class="text-white font-bold no-underline hover:underline whitespace-no-wrap" href="https://vuejs.org/" target="_blank">Vue.js</a> & <a class="text-white font-bold no-underline hover:underline whitespace-no-wrap" href="https://tailwindcss.com" target="_blank">Tailwind CSS</a>
                 </p>
                 <router-link to="/about" class="mt-8 inline-block antialiased bg-blue text-white font-bold py-2 px-4 rounded-full leading-none hover:translateY-1px transition-1s no-underline">Más sobre mí</router-link>
             </div>
